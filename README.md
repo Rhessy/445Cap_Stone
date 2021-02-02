@@ -2,9 +2,9 @@
 ## Noridian Web Application
 Description: Creating a a simpler way for Noridian to keep track of their projects via  web appliation. This will be accomplished through the use of Microsoft Azure, and ASP.NET.
 
-## Demo:
+### Demo
 
-## Technologies Used:  
+### Technologies Used:  
   1. Microsoft Azure
   2. ASP.NET
   3. SharePoint
